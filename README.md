@@ -1,7 +1,4 @@
 My Awesome Book
 =======
 
-This file contains the introduction of your book. This is where your journey as an author starts. GitBook will empower and help you along your quest.
-
-Share your ideas, and knowledge, start writing !
-
+This file file serves as your book's preface, a great place to describe your book's content and ideas.
