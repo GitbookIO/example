@@ -1,6 +1,7 @@
-GitBook Example
+My Awesome Book
 =======
 
-Welcome to your book!
+This file contains the introduction of your book. This is where your journey as an author starts. GitBook will empower and help you along your quest.
 
-This file contains the introduction of your book.
+Share your ideas, and knowledge, start writing !
+

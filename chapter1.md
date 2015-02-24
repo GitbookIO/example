@@ -1,3 +1,3 @@
 # First Chapter
 
-This file contains a chapter of your book.
+GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one
